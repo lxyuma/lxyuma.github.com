@@ -4,7 +4,7 @@
   <title><![CDATA[lxyuma blog]]></title>
   <link href="http://lxyuma.github.com/atom.xml" rel="self"/>
   <link href="http://lxyuma.github.com/"/>
-  <updated>2013-02-08T22:58:50+09:00</updated>
+  <updated>2013-02-08T23:03:47+09:00</updated>
   <id>http://lxyuma.github.com/</id>
   <author>
     <name><![CDATA[lxyuma]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://lxyuma.github.com/blog/2013/02/08/first-post/"/>
+    <updated>2013-02-08T23:02:00+09:00</updated>
+    <id>http://lxyuma.github.com/blog/2013/02/08/first-post</id>
+    <content type="html"><![CDATA[<p>初めての送信
+from octopress</p>
+]]></content>
+  </entry>
   
 </feed>
